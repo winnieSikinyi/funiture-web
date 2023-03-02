@@ -1,6 +1,6 @@
 
 .body{
-     background-color: gray;
+   
 
 }
 .mod{
@@ -50,6 +50,7 @@ display: flex;
      width: auto;
      height: 180px;
      flex: 0%;
+     
 
 
 }
@@ -58,6 +59,7 @@ display: flex;
      width: 200px;
      flex: 0%;
      height: 180px;
+     margin: 6px;
      
 }
 .bed img{
@@ -65,7 +67,7 @@ display: flex;
 width: 200px;
 flex: 0%;
 height: 180px;
-
+margin: 6px;
 }
 .bro img{
 
@@ -111,6 +113,7 @@ display: flex;
      background-size: cover;
      width: 400px;
      height: 200px;
+     
 
 
 }
