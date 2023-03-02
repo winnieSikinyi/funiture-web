@@ -1,0 +1,151 @@
+
+.body{
+     background-color: gray;
+
+}
+.mod{
+     margin-top: 7%;
+     font-size: 40px;
+     margin-left: 7%;
+}
+.small{
+     margin-left: 7%;
+}
+.image{
+     background-image: url(padded.jpg);
+     margin-left: 40%;
+     margin-top: -20%;
+     width: 400px;
+     height: 200px;
+}
+.co{
+     margin-left: 45%;
+     margin-top: -5;
+}
+.eco{
+     margin-left: 45%;
+
+}
+.aes{
+     margin-left: 40%;
+}
+.prod{
+     background-color: black;
+     padding: 20px;
+     color: white;
+     width: 150px;
+     border-radius: 7%;
+     margin-left: 7%;
+}
+.new{
+     margin-left: 40%;
+     margin-top: 20%;
+}
+.main{
+     margin-top: 10%;
+display: flex;
+}
+.char img{
+     padding: 2px;
+     width: auto;
+     height: 180px;
+     flex: 0%;
+
+
+}
+.sof img{
+     padding: 2px;
+     width: 200px;
+     flex: 0%;
+     height: 180px;
+     
+}
+.bed img{
+        
+width: 200px;
+flex: 0%;
+height: 180px;
+
+}
+.bro img{
+
+     padding: 2px;
+     width: auto;
+     height: 180px;
+     flex: 1%;
+}
+
+.fancy{
+     display: flex;
+     margin-top: 20%;
+}
+.pro{
+     background-image: url("dining.jpg");
+     background-size: cover;
+     width: 200px;
+     height: 180px;
+     padding: auto;
+}
+.colc{
+     background-image: url(seaat.jpeg);
+     background-size: cover;
+     padding:4px ;
+     width: 400px;
+     height: 180px;
+     margin-left: 5%;
+}
+.init{
+     background-color: black;
+}
+.lounge{
+display: flex;
+}
+.roduct{
+     background-image: url(lounge\ bed.jpg);
+     background-size: cover;
+     width: 400px;
+     height: 200px;
+}
+.artne{
+     background-image: url(dindin.jpeg);
+     background-size: cover;
+     width: 400px;
+     height: 200px;
+
+
+}
+.linte{
+     background-image: url(relax.jpg);
+     background-size:cover ;
+     width: 400px;
+     height: 200px;
+}
+.all{
+
+}
+
+.lasy{
+     margin-top: 10%;
+}
+.zine{
+     margin-left: 40%;
+}
+.end{
+     display: flex;
+}
+.sand{
+
+}
+.form{
+
+}
+.ucts{
+
+}
+.lectio{
+     
+}
+.soc{
+
+}
+
